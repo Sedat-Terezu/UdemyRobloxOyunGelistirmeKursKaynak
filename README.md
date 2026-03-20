@@ -18,17 +18,17 @@ Ek kod parçacıkları ve bonus içerikler
 Kursu adım adım takip etmek isteyen öğrenciler
 Örnek dosyaları indirerek üzerinde çalışmak isteyen yeni başlayanlar
 Kodları inceleyip kendi projelerine uyarlamak isteyen geliştiriciler
-Kurs dışında Roblox öğrenmek isteyen herkes
 
 ## Nasıl Kullanılır?
 
-Sol üstteki Code butonuna tıklayın.
+Sağ üstteki Code butonuna tıklayın.
 Download ZIP ile tüm kaynakları indirebilir veya
 Git kullanıyorsanız:
 
 git clone https://github.com/Sedat-Terezu/UdemyRobloxOyunGelistirmeKursKaynak.git
 
-Bu komutla git ile kopyalayabilirsiniz.
+Bu komutla git ile tüm dosyaları kopyalayabilirsiniz.
 
 Her klasör kurs bölümleriyle eşleşecek şekilde düzenlenmiştir.
+
 İlgili derse ait dosyaları açarak dersle beraber ilerleyebilirsiniz.
