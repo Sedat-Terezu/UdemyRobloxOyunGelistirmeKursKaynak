@@ -26,7 +26,7 @@ Sol üstteki Code butonuna tıklayın.
 Download ZIP ile tüm kaynakları indirebilir veya
 Git kullanıyorsanız:
 
-git clone https://github.com/kullaniciadi/UdemyRobloxOyunGelistirmeKursKaynak.git
+git clone https://github.com/Sedat-Terezu/UdemyRobloxOyunGelistirmeKursKaynak.git
 
 Bu komutla git ile kopyalayabilirsiniz.
 
