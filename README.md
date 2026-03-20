@@ -1,5 +1,6 @@
-# UdemyRobloxOyunGelistirmeKursKaynak
+# Udemy Roblox Oyun Gelistirme Kursu Kaynakları
 
+## REPOYA HOŞGELDİNİZ
 Bu repo, “Yeni Başlayanlar İçin Roblox Oyun Geliştirme” Udemy kursu boyunca kullanılan tüm proje dosyalarını, örnek script’leri, ders kaynaklarını ve tamamlamış olduğumuz mini oyun projelerini içeren resmi kaynak deposudur.
 Kurs sırasında öğrendiğiniz her bölümün dosyaları düzenli klasör yapısı içinde sunulur. Böylece hem dersleri takip ederken hem de kendi projelerinizi geliştirirken ihtiyaç duyduğunuz tüm materyallere tek bir yerden ulaşabilirsiniz.
 
